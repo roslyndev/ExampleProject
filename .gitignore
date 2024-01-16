@@ -1,9 +1,5 @@
-﻿################################################################################
-# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
-################################################################################
-
-/.vs
-/ConsoleExample.Game01/bin/Debug/net8.0
+﻿/.vs
+/ConsoleExample.Game01/bin
 /ConsoleExample.Game01/obj
-/ConsoleExample.HelloWorld/bin/Debug/net8.0
+/ConsoleExample.HelloWorld/bin
 /ConsoleExample.HelloWorld/obj
